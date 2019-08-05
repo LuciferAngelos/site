@@ -4,6 +4,11 @@ h1{
 	text-transform: uppercase;
 }
 
+p{
+	font-size: 14px;
+	font-style: italic;
+}
+
 body{
 	background-color: #3d3d3d;
 }

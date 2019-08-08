@@ -3,12 +3,14 @@ h1{
 	font-weight: bold;
 	text-transform: uppercase;
 }
-
+ 
 p{
-	font-size: 14px;
+	font-size: 26px;
 	font-style: italic;
 }
 
 body{
-	background-color: #3d3d3d;
+	background-color: #123abc;
+	width: 970px;
+	margin: 0 auto;
 }
